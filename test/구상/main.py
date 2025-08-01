@@ -1,2 +1,0 @@
-# dltlqktvfl
-print("Feafafefe")
