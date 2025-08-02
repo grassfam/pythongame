@@ -8,13 +8,13 @@
 
 fork를 사용해 자신의 계정에 리포지토리를 생성한 후, 해당 리포지토리에서 작업을 진행하여 메인 리포지토리에 pr을 요청합니다.
 
-![fork 안내 화면](image/forkhelp.png)
+![fork 안내 화면](doc/forkhelp.png)
 위와 같이 fork 버튼을 클릭하여 fork를 진행합니다.
 
-![alt text](image/forkwindowhelp.png)
+![alt text](doc/forkwindowhelp.png)
 따로 변경할 수정 사항은 없고, 바로 `Create fork`를 눌러 진행합니다.
 
-![alt text](image/forkrepohelp.png)
+![alt text](doc/forkrepohelp.png)
 이제 fork된 리포지토리가 생성되었습니다. 해당 리포지토리를 `git clone`을 통해 로컬에 가져와 작업합니다.
 
 > 자세한 내용은 관리자에게 문의하세요.
